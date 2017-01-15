@@ -1,35 +1,29 @@
 # Welcome to Jekyll!
 
 # Website settings
-title: "Jalpc"
-description: "Jack's blog,use Jekyll and github pages."
-keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
+title: "Vikas Upadhyay"
+description: "Vikas Upadhyay profile"
+keywords: "Vikas Upadhyay,Vikas Upadhyay Thoughtworks,Vikas Upadhyay Lucknow,Vikas Upadhyay GPL"
 baseurl: "/"
-url: "http://www.jack003.com"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
-  name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
-  email: 'me@jack003.com'
-  facebook_username: 'jiakunnj'
-  github_username: 'JiaKunUp'
+  name: 'Vikas Upadhyay'
+  first_name: 'Vikas'
+  last_name: 'Upadhyay'
+  email: 'vikasku@thoughtworks.com'
+  facebook_username: 'vikas.upadhyay.984'
+  github_username: 'vikashupadhyay'
   avatar: 'static/img/landing/Jack.jpg'
-  desc: 'I am a Full Stack engineer with website development, automation Ops and writing scripts experience. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful. I can make lots of friends when I coding and travel.'
+  desc: 'I am Application developer. Life is a continuous learning process, so work makes me more rigorous, travel makes my life more colorful'
 
 # comment
 changyan:
   # appid: cysfY7ULn
   # conf: prod_861928934cecb7a18e15bedaed9dae29
 disqus:
-  name: jalpc
-  public_key: tj2MPaNlHMONwTH5bGDNSXyaBpW7q282MeUzh5CwcjJerNhK8Kxk3aWo7IckzTX7
-
-# share
-bshare:
-  uuid: 513f778e-a8f7-4c20-9ec2-d29cc2328d75
+  name: VikasUpadhyay
 
 # baidu analytics
 ba:
