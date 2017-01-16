@@ -2,20 +2,23 @@
 - name: Python
   percentage: 85
 
+- name: Javascript
+  percentage: 85
+
+- name: Nodejs
+  percentage: 85
+
+- name: Java
+  percentage: 70
+
 - name: HTML/CSS
   percentage: 65
 
-- name: Linux/Shell
-  percentage: 75
+- name: Golang
+  percentage: 60
 
 - name: jQuery
   percentage: 85
 
-- name: AngularJS
-  percentage: 80
-
-- name: Ionic
-  percentage: 70
-
-- name: Vuejs
-  percentage: 65
+- name: AWS
+  percentage: 40
